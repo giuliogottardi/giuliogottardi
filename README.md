@@ -1,8 +1,8 @@
 👋 Hi, I'm Giulio Gottardi
 
 🎓 Bachelor’s student in Economics and Management at the University of Salerno.  
-📚 I am about to start my Master’s degree in **Economics and Finance**, focusing on quantitative and analytical topics.  
-📊 My main interests include corporate finance, banking regulation, investment valuation, and quantitative analysis applied to economics and finance.
+📚 I am about to start my Master’s degree in **Financial Risk and Data Analysis**, focusing on quantitative and analytical topics.  
+📊 My main interests include risk management in finance, banking regulation, investment valuation, and quantitative analysis applied to economics and finance.
 
 ---
 
