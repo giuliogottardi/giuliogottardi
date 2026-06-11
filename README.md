@@ -21,7 +21,7 @@
 ### 📊 DJIA Smart Beta — Machine Learning Portfolio Allocation
 
 Machine learning comparison project developed for the course  
-**Artificial Intelligence for Banking & Finance**.
+**Artificial Intelligence in Banking & Finance**.
 
 🔹 Built and tested smart beta allocation models on DJIA data  
 🔹 Compared Ridge/Lasso, Random Forest, and XGBoost  
