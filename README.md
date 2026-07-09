@@ -12,7 +12,6 @@
 - 📊 Power BI
 - 🗃️ SQL
 - 📑 Excel (advanced formulas, pivot tables, dashboards)
-- 🤖 Machine Learning for Finance
 
 ---
 
