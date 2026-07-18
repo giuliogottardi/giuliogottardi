@@ -1,47 +1,26 @@
-# 👋 Hi, I'm Giulio Gottardi
+# Giulio Gottardi
 
-🎓 Master's student in **Financial Risk and Data Analysis (LM-16)** at Sapienza University of Rome.  
-📊 Interested in quantitative finance, risk management, econometrics, and financial machine learning.
+M.Sc. student in Financial Risk and Data Analysis (LM-16) at Sapienza University of Rome. Focused on quantitative finance, risk management, econometrics, and machine learning applications in finance.
 
----
+## Technical Skills
 
-## 🚀 Skills
+- **Languages:** Python, R, MATLAB, SQL
+- **Python stack:** pandas, numpy, scikit-learn, glmnet-equivalents (statsmodels), matplotlib/plotly
+- **Other tools:** LaTeX, Power BI, Excel (financial modelling)
 
-- 🐍 Python (`pandas`, `numpy`, `matplotlib`, `scikit-learn`)
-- 📈 R
-- 📊 Power BI
-- 🗃️ SQL
-- 📑 Excel (advanced formulas, pivot tables, dashboards)
+## Projects
 
----
+**[DJIA Smart Beta — ML Portfolio Allocation](https://github.com/giuliogottardi/DJIA-Smart-Beta-ML)**
+Smart beta allocation framework on DJIA constituents, developed for AI in Banking & Finance. Compares Ridge/LASSO, Random Forest, and XGBoost across a walk-forward backtest, evaluated on Sharpe ratio, CAGR, drawdown, and benchmark tracking.
 
-## 📌 Featured Project
+**[Ames Housing — Regularized Regression](https://github.com/giuliogottardi/ames-housing-regularization)**
+Comparison of OLS, Ridge, LASSO, and Elastic Net on the Ames Housing dataset (2,930 residential sales, Ames, Iowa). Covers log-price transformation, structural-missingness handling, 10-fold CV for regularization parameters, and out-of-sample RMSE comparison across all four models. Full methodology and results in the repository README.
 
-### 📊 DJIA Smart Beta — Machine Learning Portfolio Allocation
+## Areas of Interest
 
-Machine learning comparison project developed for the course  
-**Artificial Intelligence in Banking & Finance**.
+Quantitative finance · Risk management · Econometrics · Asset management · Derivatives pricing · Financial machine learning
 
-🔹 Built and tested smart beta allocation models on DJIA data  
-🔹 Compared Ridge/Lasso, Random Forest, and XGBoost  
-🔹 Evaluated performance using Sharpe Ratio, CAGR, drawdown, and benchmark analysis
+## Contact
 
-➡️ **View Project:** [DJIA-Smart-Beta-ML](https://github.com/giuliogottardi/DJIA-Smart-Beta-ML)
-
----
-
-## 📚 Interests
-
-- Quantitative Finance
-- Risk Management
-- Financial Markets
-- Econometrics
-- Asset Management
-- Financial Data Analysis
-
----
-
-## 📫 Contacts
-
-- 💼 LinkedIn: [linkedin.com/in/giuliogottardi](https://linkedin.com/in/giuliogottardi)
-- 💻 GitHub: [github.com/giuliogottardi](https://github.com/giuliogottardi)
+- LinkedIn: [linkedin.com/in/giuliogottardi](https://linkedin.com/in/giuliogottardi)
+- GitHub: [github.com/giuliogottardi](https://github.com/giuliogottardi)
