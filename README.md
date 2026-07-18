@@ -11,7 +11,7 @@ M.Sc. student in Financial Risk and Data Analysis (LM-16) at Sapienza University
 **Projects**
 
 - **[BSM Pricing Engine & Dynamic Hedging Desk](https://github.com/giuliogottardi/bsm-pricing-hedging-app)** · [Live demo →](https://bsm-pricing-hedging-app.streamlit.app/)
-Interactive Streamlit app for Black-Scholes-Merton option pricing built on a dependency-free statistical core: a hand-implemented Normal CDF (Abramowitz & Stegun), finite-difference Greeks, bisection-based implied volatility from live option chains, and a Monte Carlo simulator for discretely-rebalanced delta hedging. Pulls live spot prices and a live Treasury yield curve, with reproducible synthetic fallbacks. Developed for Quantitative Financial Modelling.
+Interactive Streamlit app for Black-Scholes-Merton option pricing built on a dependency-free statistical core: a hand-implemented Normal CDF (Abramowitz & Stegun), finite-difference Greeks, bisection-based implied volatility from live option chains, and a Monte Carlo simulator for discretely-rebalanced delta hedging. Pulls live spot prices and a live Treasury yield curve, with reproducible synthetic fallbacks.
 
 - **[DJIA Smart Beta — ML Portfolio Allocation](https://github.com/giuliogottardi/DJIA-Smart-Beta-ML)**
 Smart beta allocation framework on DJIA constituents, developed for AI in Banking & Finance. Compares Ridge/LASSO, Random Forest, and XGBoost across a walk-forward backtest, evaluated on Sharpe ratio, CAGR, drawdown, and benchmark tracking.
