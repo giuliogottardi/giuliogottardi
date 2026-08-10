@@ -4,7 +4,7 @@ M.Sc. student in Financial Risk and Data Analysis (LM-16) at Sapienza University
 ##
 **Technical Skills**
 
-- **Languages:** Python, R, MATLAB, SQL
+- **Languages:** Python, R
 - **Python stack:** pandas, numpy, scikit-learn, glmnet-equivalents (statsmodels), matplotlib/plotly
 - **Other tools:** LaTeX, Power BI, Excel (financial modelling)
 ##
